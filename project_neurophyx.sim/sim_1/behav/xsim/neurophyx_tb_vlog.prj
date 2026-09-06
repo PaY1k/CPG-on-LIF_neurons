@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../project_neurophyx.srcs/sources_1/new/Neurophyx_top.sv" \
+"../../../../../clk_generator.sv" \
+"../../../../../neurophyx_tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

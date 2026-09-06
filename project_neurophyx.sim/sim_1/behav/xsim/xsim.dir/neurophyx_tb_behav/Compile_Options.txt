@@ -1,0 +1,1 @@
+-wto "4ce20e6c4bd84303ad3f15a16c85fb60" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "neurophyx_tb_behav" "xil_defaultlib.neurophyx_tb" "xil_defaultlib.glbl" -log "elaborate.log" 

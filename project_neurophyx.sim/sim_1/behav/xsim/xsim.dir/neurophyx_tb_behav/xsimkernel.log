@@ -1,0 +1,4 @@
+Running: xsim.dir/neurophyx_tb_behav/xsimk.exe -simmode gui -wdb neurophyx_tb_behav.wdb -simrunnum 0 -socket 9841
+Design successfully loaded
+Design Loading Memory Usage: 6068 KB (Peak: 6068 KB)
+Design Loading CPU Usage: 15 ms
